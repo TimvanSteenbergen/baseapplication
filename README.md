@@ -35,5 +35,9 @@ Since this example contains all the code it needs, there are no dependencies
 |Start your app!|Doubleclick the .mpr|
 
 ## Post installation
+<<<<<<< Updated upstream
 Optional, but necessary to use the emailservice and other services: 
 * Log in to your application as administrator (local with MxAdmin will do) and get yourself a consumer-account.
+=======
+Optional, but necessary to use the emailservice and other services: Go to http://<yourapp>:<yourport>/p/consumer and get yourself a consumer-account.
+>>>>>>> Stashed changes
