@@ -1,5 +1,6 @@
-# baseapplication
+# Base Application
 An great starter application to build on.
+
 ## Description
 
 Starting with Mendix is usually done using a blank template. If instead you use this base application:
@@ -23,14 +24,16 @@ And at the top right: your profile image telling you all about who you are, your
 An extended toolset for your system management, giving you more grip on the application, showing currently logged in users, and the number of objects in the entities that you want to keep in focus. Also: showing a system message to your logged in users.
 
 ## Dependencies
-
 Since this example contains all the code it needs, there are no dependencies
 
 ## Installation (pre-requisite: Have Mx 9.6.6 or higher installed)
-
-* Download this example
-* Unzip the downloaded .mpk
-* Doubleclick the .mpr
+|Quickest way, using Mx Version Selector|Also quick, but with unzipping it yourself|
+|--|--|
+|Click the button 'Download'|Click the button 'Download'|
+|Click 'Ok' to confirm using the Mx VersionSelector|Select 'Save file' and click 'Ok'|
+|Select a new empty directory to place your app and click 'Ok'|Unzip the downloaded .mpk|
+|Start your app!|Doubleclick the .mpr|
 
 ## Post installation
-Optional, but necessary to use the emailservice and other services: Go to https://service.mendixcloud.com/p/consumer and get yourself a consumer-account.
+Optional, but necessary to use the emailservice and other services: 
+* Log in to your application as administrator (local with MxAdmin will do) and get yourself a consumer-account.
