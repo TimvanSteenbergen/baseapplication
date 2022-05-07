@@ -13,6 +13,7 @@ Starting with Mendix is usually done using a blank template. If instead you use 
 * You get a multi-tenant environment for companyfunctions;
 * You get basic invoice functions;
 * You get to play games like 2048 and tictactoe. Good fun and showing you React-addons at the same time;
+* You get the Workflow-functions ready to go;
 
 And all that Out-Of-The-Box!
 
@@ -24,7 +25,7 @@ And at the top right: your profile image telling you all about who you are, your
 An extended toolset for your system management, giving you more grip on the application, showing currently logged in users, and the number of objects in the entities that you want to keep in focus. Also: showing a system message to your logged in users.
 
 ## Dependencies
-Since this example contains all the code it needs, there are no dependencies
+Since this example contains all the code it needs, there are no dependencies.
 
 ## Installation (pre-requisite: Have Mx 9.6.6 or higher installed)
 |Quickest way, using Mx Version Selector|Also quick, but with unzipping it yourself|
@@ -35,5 +36,5 @@ Since this example contains all the code it needs, there are no dependencies
 |Start your app!|Doubleclick the .mpr|
 
 ## Post installation
-Optional, but necessary to use the emailservice and other services: 
-* Log in to your application as administrator (local with MxAdmin will do) and get yourself a consumer-account.
+* Optional: browse through the modules and remove whatever you do not need.
+* If you want to use any of the location-, email- or other services: Log in to your application as administrator (local with MxAdmin will do) and get yourself a consumer-account.
