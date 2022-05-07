@@ -27,7 +27,7 @@ An extended toolset for your system management, giving you more grip on the appl
 ## Dependencies
 Since this example contains all the code it needs, there are no dependencies.
 
-## Installation (pre-requisite: Have Mx 9.6.6 or higher installed)
+## Installation (pre-requisite: Have Mx 9.12.1 installed)
 |Quickest way, using Mx Version Selector|Also quick, but with unzipping it yourself|
 |--|--|
 |Click the button 'Download'|Click the button 'Download'|
@@ -38,3 +38,4 @@ Since this example contains all the code it needs, there are no dependencies.
 ## Post installation
 * Optional: browse through the modules and remove whatever you do not need.
 * If you want to use any of the location-, email- or other services: Log in to your application as administrator (local with MxAdmin will do) and get yourself a consumer-account.
+  
